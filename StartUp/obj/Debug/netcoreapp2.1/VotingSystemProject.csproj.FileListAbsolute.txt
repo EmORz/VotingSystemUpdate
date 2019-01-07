@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\StartUp\bin\Debug\netcoreapp2.1\VotingSystemProject.deps.json
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\StartUp\bin\Debug\netcoreapp2.1\VotingSystemProject.runtimeconfig.json
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\StartUp\bin\Debug\netcoreapp2.1\VotingSystemProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\StartUp\bin\Debug\netcoreapp2.1\VotingSystemProject.dll
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\StartUp\bin\Debug\netcoreapp2.1\VotingSystemProject.pdb
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\StartUp\obj\Debug\netcoreapp2.1\VotingSystemProject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\StartUp\obj\Debug\netcoreapp2.1\VotingSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\StartUp\obj\Debug\netcoreapp2.1\VotingSystemProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\StartUp\obj\Debug\netcoreapp2.1\VotingSystemProject.AssemblyInfo.cs
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\StartUp\obj\Debug\netcoreapp2.1\VotingSystemProject.dll
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\StartUp\obj\Debug\netcoreapp2.1\VotingSystemProject.pdb

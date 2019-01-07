@@ -19,21 +19,22 @@ namespace StartUp.Core.Engine
             while (true)
             {
                 Bullettin.Print();
+
+                Console.Write(Bullettin.EnterName);
                 string name = Console.ReadLine();
-                //ideqta e 4e imenata na glasuvalite se pazqt v lista v hashiran type - taina na vota :) 
                 var hashName = name.GetHashCode().ToString();
-                //validiram dali ne se sydyrja ve4e 
+
                 if (ListPerson.Exists(x => x.Name == hashName))
                 {
-                    Console.WriteLine("Invalid");
+                    Console.WriteLine(Bullettin.Invalid);
                     continue;
                 }
-                //za prekysvane na izpylnenieto
-                if (name == "s")
+                if (name == Bullettin.Stop)
                 {
                     break;
                 }
-                //samiqt vot - validiram dali e ot vaidnite
+
+                Console.Write(Bullettin.EnterVote);
                 string vote = Console.ReadLine();
                 if (Bullettin.all.Contains(vote))
                 {
@@ -41,9 +42,8 @@ namespace StartUp.Core.Engine
                     ListPerson.Add(Person);
                 }
             }
-
-            Console.WriteLine("Result");
-            Console.WriteLine("All Vote"+ListPerson.Count);
+            Console.WriteLine(Bullettin.Result);
+            Console.WriteLine(Bullettin.AllVote+ListPerson.Count);
             foreach (var person in ListPerson)
             {
                 Console.WriteLine(person.Name+" => "+person.Vote);

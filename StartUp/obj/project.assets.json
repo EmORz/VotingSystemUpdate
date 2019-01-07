@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\VotingSystem\\StartUp\\StartUp.csproj",
-      "projectName": "StartUp",
-      "projectPath": "C:\\Users\\User\\source\\repos\\VotingSystem\\StartUp\\StartUp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\VotingSystem\\VotingSystemUpdate\\StartUp\\VotingSystemProject.csproj",
+      "projectName": "VotingSystemProject",
+      "projectPath": "C:\\Users\\User\\source\\repos\\VotingSystem\\VotingSystemUpdate\\StartUp\\VotingSystemProject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\VotingSystem\\StartUp\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\VotingSystem\\VotingSystemUpdate\\StartUp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

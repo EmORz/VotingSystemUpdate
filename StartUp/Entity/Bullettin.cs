@@ -17,6 +17,14 @@ namespace StartUp.Entity
             Console.WriteLine(string.Join(" ", all));
         }
 
+        public static string EnterName = "Name: ";
+        public static string EnterVote = "Enter vote: ";
+        public static string Invalid = "Invalid - You cant vote second time";
+
+        public static string Result = "Result";
+        public static string AllVote = "All Vote";
+
+        public static string Stop = "Stop";
 
     }
 }
