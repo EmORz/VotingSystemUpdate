@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\VotingLocalMunicipality\bin\Debug\netcoreapp2.1\VotingLocalMunicipality.deps.json
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\VotingLocalMunicipality\bin\Debug\netcoreapp2.1\VotingLocalMunicipality.runtimeconfig.json
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\VotingLocalMunicipality\bin\Debug\netcoreapp2.1\VotingLocalMunicipality.runtimeconfig.dev.json
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\VotingLocalMunicipality\bin\Debug\netcoreapp2.1\VotingLocalMunicipality.dll
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\VotingLocalMunicipality\bin\Debug\netcoreapp2.1\VotingLocalMunicipality.pdb
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\VotingLocalMunicipality\obj\Debug\netcoreapp2.1\VotingLocalMunicipality.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\VotingLocalMunicipality\obj\Debug\netcoreapp2.1\VotingLocalMunicipality.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\VotingLocalMunicipality\obj\Debug\netcoreapp2.1\VotingLocalMunicipality.AssemblyInfo.cs
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\VotingLocalMunicipality\obj\Debug\netcoreapp2.1\VotingLocalMunicipality.dll
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\VotingLocalMunicipality\obj\Debug\netcoreapp2.1\VotingLocalMunicipality.pdb
+C:\Users\User\source\repos\VotingSystem\VotingSystemUpdate\VotingLocalMunicipality\obj\Debug\netcoreapp2.1\VotingLocalMunicipality.csprojAssemblyReference.cache
