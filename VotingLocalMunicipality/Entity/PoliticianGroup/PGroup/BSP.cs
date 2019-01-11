@@ -13,11 +13,6 @@ namespace VotingLocalMunicipality.Entity
 
         public void Members()
         {
-            AllM.list.Add(first);
-            AllM.list.Add(second);
-            AllM.list.Add(third);
-            AllM.list.Add(fourth);
-            AllM.list.Add(five);
 
             mm.Add(first);
             mm.Add(second);
